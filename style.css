@@ -1,24 +1,14 @@
 h1, h2, h3 {
     text-align: center;
+    color: pink;
+    font-size: 50px;
 }
 p {
     color: white;
-    text- align: center;
+    text-align: center;
     font-size: 30px;
 }
-h1 {
-    color: pink;
-    font-size: 50px;
-     }
-h2 {
-    color: pink;
-    font-size: 50px;
-}    
-h3 {
-    color: pink;
-    font-size: 50px;
-}
-    body {
+body {
     background-image: url(https://i.postimg.cc/X7QGxmPJ/rb.jpg);
     background-repeat: no-repeat;
     background-size: cover;
