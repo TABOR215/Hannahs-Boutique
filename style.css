@@ -3,5 +3,6 @@ color: red;
   }
 
 body {
-    background-image: url(https://i.postimg.cc/G3D9R9M0/rb.jpg);
+background-image: url(https://i.postimg.cc/G3D9R9M0/rb.jpg);
+background-repeat: no-repeat;
 }
