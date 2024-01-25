@@ -3,6 +3,8 @@ h1, h2, h3 {
 }
 p {
     color: white;
+    text- align: center;
+    font-size: 30px;
 }
 h1 {
     color: pink;
@@ -21,3 +23,5 @@ h3 {
     background-repeat: no-repeat;
     background-size: auto;
     }
+button {
+    text-align: center;
