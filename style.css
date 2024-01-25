@@ -20,3 +20,10 @@ button {
   height: 400px;
   width: 400px;
   image-rendering: auto;
+.smooth {
+  image-rendering: smooth;
+}
+
+.high-quality {
+  image-rendering: high-quality;
+}
